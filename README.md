@@ -1,1 +1,1 @@
-https://emexos.github.io/maze2/index.html
+https://emexos.github.io/home/maze2/index.html
