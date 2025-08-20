@@ -32,7 +32,6 @@ I'm os developer (low-level programming)... My projects are built from the groun
 
 #
 
-### Stats
 ![emexos’s GitHub stats](https://github-readme-stats.vercel.app/api?username=emexos&show_icons=true&theme=dark&bg_color=2d353b&text_color=d3c6aa&icon_color=a7c080&title_color=dbbc7f&hide_border=true&border_radius=12)
 
 
