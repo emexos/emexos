@@ -1,9 +1,9 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d353b&height=160&section=header&text=emexSW&fontColor=dbbc7f&animation=fadeIn&fontAlign=20&fontAlignY=35" width="100%"/>
 I'm os developer (low-level programming) i'm from Germany/bavaria... <br/>
-My projects are mostly built from scratch like my **XPL2 bootloader** and **kernel**,  <br/>
+My projects are mostly built from scratch like my XPL2 bootloader and kernel,  <br/>
 i enjoy exploring how computers work at the low level  <br/>
-but I also have a passion for **web design**, especially crafting sleek and engaging layouts with **CSS**. <br/>
+but I also have a passion for web design, especially crafting sleek and engaging layouts with CSS <br/>
 <br/>
 and i love the Everforest theme.. I like simplicity and clarity in literally everything...
 i hope you enjoy my projects :D
