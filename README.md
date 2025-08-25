@@ -8,9 +8,9 @@ but I also have a passion for web design, especially crafting sleek and engaging
 and i love the Everforest theme.. I like simplicity and clarity in literally everything...
 i hope you enjoy my projects :D
 <br/>
+<br/>
 
 <!-- Badges -->
-<p align="left"> 
 <p align="left">
    <a href="https://www.youtube.com/@JonsCode?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCGm89KBAlDXTdiDW9YeTnFQ?color=%23a7c080&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/></a> 
@@ -20,7 +20,6 @@ i hope you enjoy my projects :D
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/emexos?color=%237fbbb3&labelColor=%232d353b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/emexos?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/emexos?color=%23e69875&style=for-the-badge&labelColor=%232d353b&logo=star"/></a>
-</p>
 </p>
 
 # 
