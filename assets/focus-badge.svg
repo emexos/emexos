@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="28" role="img" aria-label="Focus: Rust | C | ASM">
   <title>Focus: Rust | C | ASM</title>
-  <!-- Hintergrund -->
+  
   <rect width="220" height="28" fill="#2f383e"/>
   
-  <!-- Text -->
   <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="700">
     <text x="10" y="19" fill="#ffffff">FOCUS —</text>
     <text x="95" y="19" fill="#dbbc7f">RUST | C | ASM</text>
