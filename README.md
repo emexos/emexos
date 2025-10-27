@@ -3,7 +3,7 @@
 
 <h1 align="left">YOOOOO SUP...</h1>
 
-hello :D i make shit and post it on [youtube](https://www.youtube.com/emexSW)
+hello :D i make shit and post it on [youtube](https://www.youtube.com/@emexSW)
 
 
 I'm a small os developer from Germany. <br/>
