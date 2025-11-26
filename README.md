@@ -1,13 +1,13 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d353b&height=150&section=header&text=emexSW&fontColor=A7C080&animation=fadeIn&fontAlign=20&fontAlignY=45" width="100%"/>
 
-<h1 align="left">YOOOOO SUP...</h1>
+<h1 align="left">HELLO YOU...</h1>
 
 hello :D i make shit and post it on [youtube](https://www.youtube.com/@emexSW)
 
 
-I'm a small os developer from Germany. <br/>
-But I love web design, especially crafting sleek and simple layouts with CSS <br/>
+I'm a small os developer and designer. <br/>
+I love web design, especially crafting sleek and simple layouts with CSS <br/>
 <br/>
 And i love the Everforest theme.. I like simplicity and clarity in literally everything...
 I hope you enjoy my projects :D 
@@ -20,7 +20,7 @@ I hope you enjoy my projects :D
 <!-- Badges -->
 <p align="left">
    <a href="https://www.youtube.com/@emexSW?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCj2j23ad0Rqrsm79JJZQBjA?color=%23a7c080&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/></a> 
+      <img alt="youtube subscribers" title="Subscriber" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCj2j23ad0Rqrsm79JJZQBjA?color=%23a7c080&label=SUBSCRIBER&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/></a> 
    <a href="https://www.youtube.com/@emexSW">
       <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCj2j23ad0Rqrsm79JJZQBjA?color=%23dbbc7f&logo=eye&logoColor=white&style=for-the-badge&labelColor=%232d353b"/></a> 
    <a href="https://github.com/emexos?tab=followers">
@@ -36,7 +36,7 @@ I hope you enjoy my projects :D
    <div align="left"> 
       <img src="https://img.shields.io/badge/git-2f383e.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
       <img src="https://img.shields.io/badge/github-2f383e.svg?style=for-the-badge&logo=github&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/rust-2f383e.svg?style=for-the-badge&logo=rust&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/c++-2f383e.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
       <img src="https://img.shields.io/badge/macos-2f383e.svg?style=for-the-badge&logo=apple&logoColor=white"/> 
       <img src="https://img.shields.io/badge/c-2f383e.svg?style=for-the-badge&logo=c&logoColor=white"/> 
       <img src="https://img.shields.io/badge/assembly-2f383e.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/> 
@@ -46,7 +46,7 @@ I hope you enjoy my projects :D
       <br>
       emexOS a simple 64 bit OS 
       <br/> <br/>
-      <img src="./assets/focus-badge.svg" alt="Focus: Rust | C | ASM"/> 
+      <img src="./assets/focus-badge.svg" alt="Focus: C++ | C | ASM"/> 
    </div> 
 </p>
 
