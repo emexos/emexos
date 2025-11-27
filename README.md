@@ -14,8 +14,10 @@ I hope you enjoy my projects :D
 <br/>
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Go+touch+some+grass.)
+<!--
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=+)
 <br/>
+-->
 
 <!-- Badges -->
 <p align="left">
@@ -48,6 +50,11 @@ I hope you enjoy my projects :D
       <br/> <br/>
       <img src="./assets/focus-badge.svg" alt="Focus: C++ | C | ASM"/> 
    </div> 
+   
+   ## 
+   <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emexos&theme=everforest&hide_border=true&bg_color=0d1117&color=d3c6aa&line=2d353b&point=white" alt="Contrinbution Graph" />
+</div>
 </p>
 
 <!-- Footer -->
